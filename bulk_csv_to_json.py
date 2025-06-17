@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """
-csv2json_bulk.py
-
 Converts all .csv files in a folder to .json
 └── data/
     ├── sales.csv     ->  sales.json
