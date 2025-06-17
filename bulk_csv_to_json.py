@@ -7,7 +7,7 @@ Converts all .csv files in a folder to .json
     └── products.csv  ->  products.json
 
 Usage:
-    python csv2json_bulk.py /path/to/csv_folder [--output /path/to/jsons]
+    python bulk_csv_to_json.py /path/to/csv_folder [--output /path/to/jsons]
 """
 import csv
 import json
